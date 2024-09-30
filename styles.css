@@ -2,6 +2,8 @@
     background-color: rgb(245, 240, 230);
     display: inline-block;
     scroll-margin-top: 140px;
+    width: 100%;
+    padding 20px;
 }
 
 .section2 {
@@ -9,12 +11,8 @@
     display: inline-block;
     scroll-margin-top: 140px;
     color: #ffffff;
-}
-
-.section3 {
-    background-color: rgb(245, 240, 230);
-    display: inline-block;
-    scroll-margin-top: 140px;
+    width: 100%;
+    padding: 20px;
 }
 
 .section3gridelement {
